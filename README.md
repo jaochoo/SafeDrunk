@@ -3,15 +3,15 @@
 A new Flutter project.
 
 ## Getting Started
-** Cloning the repository**
+**Cloning the repository**
 ```
 git clone https://github.com/jaochoo/SafeDrunk
 ```
-** get all dependencies **
+**get all dependencies**
 ```
 flutter pub get
 ```
-** run the program **
+**run the program**
 ```
 flutter run
 ```
